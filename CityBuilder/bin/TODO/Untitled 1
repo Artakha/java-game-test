@@ -1,0 +1,22 @@
+TODO
+
+design menu screen buttons
+design menu screen background
+design tile images
+create all tile classes
+forest, plains, mountain, city, dungeon, empty, enemycity
+
+design interface on right/bottom side of screen
+
+get mouse loc and link to tile w/ camera
+design tile interface
+assign resources to tile
+
+finish city class with generation for first city
+create buildings
+do city buildings
+cityState class or interafce for each city?
+
+create legend and armies classes
+create enemy armies in tiles/dungeons
+battle events
